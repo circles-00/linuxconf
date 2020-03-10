@@ -1,5 +1,5 @@
 -Install BumbleBee and BBswitch
--Don't install lts-kernetl
+-Don't install lts-kernel
 -Install Spotify
 -Install Deepin Screenshot
 -Install Geogebra
