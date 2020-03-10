@@ -1,0 +1,8 @@
+-Install BumbleBee and BBswitch
+-Don't install lts-kernetl
+-Install Spotify
+-Install Deepin Screenshot
+-Install Geogebra
+-Install Thunar File Manager
+-Install Xfce Terminal
+-Insall Visual Studio Code
